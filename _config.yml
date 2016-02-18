@@ -1,0 +1,28 @@
+name: 3notaboutme
+favicon: null
+layout_spectrum: 0.7034842681605369
+typography_spectrum: 0.8530913405120373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6800947124138474
+  lightness: 0.4169693316798657
+  saturation: 0.3302199977915734
+  rhythmicContrast: 0.14326075976714492
+purpose: []
