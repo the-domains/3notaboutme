@@ -1,7 +1,7 @@
 name: 3notaboutme
 favicon: null
-layout_spectrum: 0.7034842681605369
-typography_spectrum: 0.8530913405120373
+layout_spectrum: 0
+typography_spectrum: 0.30729
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#39372c'
     - '#9e9797'
   brandStrength: 0.75
-  lightness: 0.375
+  lightness: 0.8125
   saturation: 0.0625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
