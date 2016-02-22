@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[3notaboutme]]></title>
-        <description><![CDATA[3notaboutme]]></description>
+        <title><![CDATA[It's Not About Me - It's About You]]></title>
+        <description><![CDATA[It's Not About Me - It's About You]]></description>
         <link>https://thegrid.ai/3notaboutme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 16:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 17:11:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3notaboutme/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Moonshot]]></title>
-            <description><![CDATA[<article><h1>Moonshot</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5600a3-c516-489c-bffd-acd97ed8f79a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Moonshot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47a7e96760e10c25a56072e12f6a7ec0239cfb77.png"></article>]]></description>
             <link>https://thegrid.ai/3notaboutme/moonshot/index.html</link>
             <guid isPermaLink="false">efc4428a-e1bc-421f-8d45-c2059482fe99</guid>
-            <pubDate>Mon, 22 Feb 2016 16:57:36 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 17:11:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
